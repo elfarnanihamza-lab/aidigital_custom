@@ -1,28 +1,50 @@
 A short summary of the course for search results.,Un court résumé de la formation pour les résultats de recherche.
 About this course,À propos de cette formation
+Add Quiz to Video,Ajouter un quiz à la vidéo
 Add Row,Ajouter une ligne
+Add Test Case,Ajouter un cas de test
 Add a chapter,Ajouter un chapitre
 Add a lesson,Ajouter une leçon
 Add a program,Ajouter un parcours
+Add a programming exercise to your lesson,Ajoutez un exercice de code à votre leçon
+Add a quiz to your lesson,Ajoutez un quiz à votre leçon
+Add an assignment to your lesson,Ajoutez un devoir à votre leçon
 Add courses to your batch,Ajoutez des formations à votre promotion
+Add quiz to this video,Ajouter un quiz à cette vidéo
 Add students to your batch,Ajoutez des apprenants à votre promotion
 Add your first chapter,Ajoutez votre premier chapitre
 Add your first lesson,Ajoutez votre première leçon
 All Courses,Toutes les formations
+Allow users to view their past quiz attempts.,Permettre aux utilisateurs de consulter leurs tentatives de quiz précédentes.
+Are you sure you want to cancel this evaluation? This action cannot be undone.,Voulez-vous vraiment annuler cette évaluation ? Cette action est irréversible.
 "Are you sure you want to clear the demo data? This would delete the course ""A guide  to Frappe Learning"" along with all its associated data. This action cannot be undone.",Voulez-vous vraiment supprimer les données de démonstration ? Cela supprimera la formation « A guide to Frappe Learning » ainsi que toutes ses données associées. Cette action est irréversible.
 Are you sure you want to enroll?,Voulez-vous vraiment vous inscrire ?
+Are you sure you want to submit the quiz?,Voulez-vous vraiment soumettre le quiz ?
+Ask a question to get help from the community.,Posez une question pour obtenir de l'aide de la communauté.
 Assessment {0} has already been added to this batch.,L'évaluation {0} a déjà été ajoutée à cette promotion.
+Assign For,Attribuer pour
+Assign a Badge,Attribuer un badge
 Assignment,Devoir
 Assignment Attachment,Pièce jointe du devoir
+Assignment Progress,Progression des devoirs
+Assignment Submission,Rendu de devoir
+Assignment Submissions,Rendus de devoirs
+Assignment created successfully,Devoir créé avec succès
+Assignment submitted successfully,Devoir rendu avec succès
+Assignment updated successfully,Devoir mis à jour avec succès
 Average Completion Rate,Taux d'achèvement moyen
+Average Feedback Received,Moyenne des avis reçus
 Average Progress %,Progression moyenne (%)
 Back to Course,Retour à la formation
+Badge assignment created successfully,Attribution de badge créée avec succès
+Badge assignment updated successfully,Attribution de badge mise à jour avec succès
 Batch,Promotion
 Batch Confirmation Template,Modèle de confirmation de promotion
 Batch Course,Formation de la promotion
 Batch Details,Détails de la promotion
 Batch Details Raw,Détails bruts de la promotion
 Batch Evaluator,Évaluateur de promotions
+Batch Feedback,Avis sur la promotion
 Batch Name,Nom de la promotion
 Batch Settings,Paramètres des promotions
 Batch Start Date,Date de début de la promotion
@@ -39,7 +61,12 @@ Chapter moved successfully,Chapitre déplacé avec succès
 Chapter renamed successfully,Chapitre renommé avec succès
 Chapter updated successfully,Chapitre mis à jour avec succès
 Charge learners to enroll in this course.,Faites payer l'inscription des apprenants à cette formation.
+Check All Submissions,Voir tous les rendus
+Check Submission,Voir le rendu
+Check Submissions,Voir les rendus
 Checkout Courses,Découvrir les formations
+Comments by Evaluator,Commentaires de l'évaluateur
+Complete the upcoming quiz to continue watching the video. The quiz will open in {0} {1}.,Terminez le prochain quiz pour continuer à regarder la vidéo. Le quiz s'ouvrira dans {0} {1}.
 Complete your profile,Complétez votre profil
 Completion Rate,Taux d'achèvement
 Configuration,Configuration
@@ -47,6 +74,7 @@ Confirm clearing demo data?,Confirmer la suppression des données de démonstrat
 Contact the Administrator to enroll for this course,Contactez l'administrateur pour vous inscrire à cette formation
 Contact the Administrator to enroll for this course.,Contactez l'administrateur pour vous inscrire à cette formation.
 Continue Learning,Continuer l'apprentissage
+Could not delete the quiz,Impossible de supprimer le quiz
 Course,Formation
 Course Chapter,Chapitre de la formation
 Course Completed,Formation terminée
@@ -87,10 +115,12 @@ Courses Created,Formations créées
 Courses deleted successfully,Formations supprimées avec succès
 Courses must be completed in order. You can only start the next course after completing the previous one.,Les formations doivent être suivies dans l'ordre. Vous ne pouvez commencer la formation suivante qu'après avoir terminé la précédente.
 Create Course,Créer une formation
+Create Programming Exercise,Créer un exercice de code
 Create a Course,Créer une formation
 Create a batch,Créer une promotion
 Create a course,Créer une formation
 Create a live class,Créer une séance en direct
+Create an Assignment,Créer un devoir
 Create chapter,Créer un chapitre
 Create your first batch,Créez votre première promotion
 Create your first course,Créez votre première formation
@@ -100,16 +130,27 @@ Creating a course,Création d'une formation
 Current Streak,Série en cours
 Curriculum,Programme
 Custom Certificate Templates,Modèles de certificat personnalisés
+Deduct marks for incorrect answers.,Retirer des points pour les réponses incorrectes.
 Delete Chapter,Supprimer le chapitre
 Delete Course,Supprimer la formation
 Delete this chapter?,Supprimer ce chapitre ?
 Delete this lesson?,Supprimer cette leçon ?
+Delete this quiz?,Supprimer ce quiz ?
 Deleting the course will also delete all its chapters and lessons. Are you sure you want to delete this course?,La suppression de la formation entraînera aussi celle de tous ses chapitres et leçons. Voulez-vous vraiment supprimer cette formation ?
+"Deleting these exercises will permanently remove them from the system, along with all associated submissions. This action is irreversible. Are you sure you want to proceed?","La suppression de ces exercices les retirera définitivement du système, ainsi que tous les rendus associés. Cette action est irréversible. Voulez-vous vraiment continuer ?"
+"Deleting this batch will also delete all its data including enrolled students, linked courses, assessments, feedback and discussions. Are you sure you want to proceed?","La suppression de cette promotion supprimera aussi toutes ses données : apprenants inscrits, formations liées, évaluations, avis et discussions. Voulez-vous vraiment continuer ?"
 Deleting this chapter will also delete all its lessons and permanently remove it from the course. This action cannot be undone. Are you sure you want to continue?,La suppression de ce chapitre entraînera aussi celle de toutes ses leçons et le retirera définitivement de la formation. Cette action est irréversible. Voulez-vous vraiment continuer ?
 Deleting this lesson will permanently remove it from the course. This action cannot be undone. Are you sure you want to continue?,La suppression de cette leçon la retirera définitivement de la formation. Cette action est irréversible. Voulez-vous vraiment continuer ?
+Deleting this quiz permanently removes it and its submissions. This action cannot be undone. Are you sure you want to continue?,"La suppression de ce quiz le retire définitivement, ainsi que ses rendus. Cette action est irréversible. Voulez-vous vraiment continuer ?"
 Demo data cleared successfully,Données de démonstration supprimées avec succès
 Discussions,Discussions
+Display correct answers after each question is attempted.,Afficher les bonnes réponses après chaque question.
+Edit Assignment,Modifier le devoir
+Edit Badge Assignment,Modifier l'attribution du badge
 Edit Chapter,Modifier le chapitre
+Edit Programming Exercise,Modifier l'exercice de code
+Enable Negative Marking,Activer la notation négative
+Enable evaluations for batch participants.,Activer les évaluations pour les participants de la promotion.
 Enable this only if you want to upload a SCORM package as a chapter.,Activez cette option uniquement si vous souhaitez importer un package SCORM comme chapitre.
 Ended,Terminé
 Enforce Course Order,Imposer l'ordre des formations
@@ -121,10 +162,26 @@ Enrolled,Inscrit
 Enrolled On,Inscrit le
 Enrolled Students,Apprenants inscrits
 Enrollments,Inscriptions
+Enter a Coupon Code,Saisir un code promo
 Error Uploading File,Erreur lors de l'envoi du fichier
+Evaluation End Date,Date de fin de l'évaluation
+Evaluation cancelled successfully,Évaluation annulée avec succès
+Evaluation saved successfully,Évaluation enregistrée avec succès
+Evaluations,Évaluations
+Evaluator,Évaluateur
+Exercise,Exercice
+Exercise deleted successfully,Exercice supprimé avec succès
+Failed to create badge assignment:,Échec de la création de l'attribution du badge :
+Failed to submit. Please try again. {0},Échec de l'envoi. Veuillez réessayer. {0}
+Failed to update badge assignment:,Échec de la mise à jour de l'attribution du badge :
 Failed to update meta tags {0},Échec de la mise à jour des balises meta {0}
+Feel free to make edits to your submission if needed.,N'hésitez pas à modifier votre rendu si nécessaire.
+Filter assignments by course,Filtrer les devoirs par formation
+Filter by Exercise,Filtrer par exercice
 Frappe Learning,Frappe Learning
 Go back,Retour
+Grading,Notation
+Help us improve by providing your feedback.,Aidez-nous à nous améliorer en partageant votre avis.
 Hey,Bonjour
 Highlight what makes you unique and show your skills.,Mettez en avant ce qui vous distingue et montrez vos compétences.
 How to edit a lesson,Comment modifier une leçon
@@ -139,11 +196,22 @@ Introduction,Introduction
 Invite your team and students,Invitez votre équipe et vos apprenants
 Issue a Certificate,Délivrer un certificat
 "Keep going,","Continuez,"
+LMS Assignment,Devoir LMS
+LMS Assignment Submission,Rendu de devoir LMS
+LMS Badge Assignment,Attribution de badge LMS
+LMS Batch Feedback,Avis sur promotion LMS
+LMS Certificate Evaluation,Évaluation de certificat LMS
 LMS Course,Formation LMS
 LMS Course Progress,Progression de la formation LMS
 LMS Course Review,Avis sur la formation LMS
 LMS Enrollment,Inscription LMS
 LMS Lesson Note,Note de leçon LMS
+LMS Programming Exercise,Exercice de code LMS
+LMS Programming Exercise Submission,Rendu d'exercice de code LMS
+LMS Question,Question LMS
+LMS Quiz,Quiz LMS
+LMS Quiz Submission,Rendu de quiz LMS
+LMS Test Case,Cas de test LMS
 LMS Video Watch Duration,Durée de visionnage vidéo LMS
 Launch a paid course,Lancer une formation payante
 Learning,Apprentissage
@@ -161,39 +229,63 @@ Lesson moved successfully,Leçon déplacée avec succès
 Lesson title,Titre de la leçon
 Lessons,Leçons
 Let users enroll themselves.,Laissez les utilisateurs s'inscrire eux-mêmes.
+Limit Questions To,Limiter les questions à
 Longest Streak,Plus longue série
+"Manage batches, review and grade submissions","Gérez les promotions, examinez et notez les rendus"
 Manage your courses and batches at a glance,Gérez vos formations et vos promotions en un coup d'œil
+Manual Assignment,Attribution manuelle
+Mark,Point
 Mark for review,Marquer pour révision
+Marks,Points
+Marks to Deduct,Points à retirer
+Max Attempts,Nombre maximal de tentatives
+Maximum Attempts,Nombre maximal de tentatives
 Monetization,Monétisation
 My Batches,Mes promotions
 My Courses,Mes formations
 New Course,Nouvelle formation
+No Quiz submissions found,Aucun rendu de quiz trouvé
 No chapters yet,Aucun chapitre pour le moment
 No courses added yet.,Aucune formation ajoutée pour le moment.
 No courses created,Aucune formation créée
+No feedback received yet.,Aucun avis reçu pour le moment.
 No other published courses available,Aucune autre formation publiée disponible
+No quizzes added yet.,Aucun quiz ajouté pour le moment.
 No slots available for the selected course.,Aucun créneau disponible pour la formation sélectionnée.
 No students enrolled yet,Aucun apprenant inscrit pour le moment
 No {0} Found,{0} : aucun résultat
+Not Graded,Non noté
 Not yet open for enrollment.,Les inscriptions ne sont pas encore ouvertes.
 On demand course video,Vidéo de formation à la demande
 Onboard my existing learners,Intégrer mes apprenants existants
+"Once the moderator grades your submission, you'll find the details here.","Dès que le modérateur aura noté votre rendu, vous trouverez les détails ici."
 Only PDF files are allowed.,Seuls les fichiers PDF sont autorisés.
 Only ZIP files are allowed.,Seuls les fichiers ZIP sont autorisés.
 Only document file of type .doc or .docx are allowed.,Seuls les documents de type .doc ou .docx sont autorisés.
+Only show assignments from the current course,Afficher uniquement les devoirs de la formation en cours
 Only show courses that offer a certificate,Afficher uniquement les formations qui délivrent un certificat
 Only {0} file is allowed.,Seul le format {0} est autorisé.
 Our Popular Courses,Nos formations les plus suivies
 Our Upcoming Batches,Nos prochaines promotions
 Page deleted successfully,Page supprimée avec succès
 Paid course,Formation payante
+Passing Percentage,Pourcentage de réussite
 Paste a YouTube link,Collez un lien YouTube
 "Paste a YouTube link, or upload a video file (MP4, WebM, or OGG) to show a preview on the course page.","Collez un lien YouTube ou envoyez un fichier vidéo (MP4, WebM ou OGG) pour afficher un aperçu sur la page de la formation."
 Please complete the previous course to unlock this one.,Veuillez terminer la formation précédente pour débloquer celle-ci.
 Please enroll for this course to view this lesson,Veuillez vous inscrire à cette formation pour voir cette leçon
+"Please ensure that the billing name you enter is correct, as it will be used on your invoice.",Veuillez vérifier que le nom de facturation saisi est correct : il figurera sur votre facture.
+Please enter a coupon code,Veuillez saisir un code promo
+Please login to access the quiz.,Veuillez vous connecter pour accéder au quiz.
+Please make sure to schedule your evaluation before this date.,Veillez à planifier votre évaluation avant cette date.
+Please provide an answer or upload a file before submitting.,Veuillez fournir une réponse ou envoyer un fichier avant de soumettre.
+Please run the code to execute the test cases.,Veuillez exécuter le code pour lancer les cas de test.
 Please select a course,Veuillez sélectionner une formation
 Please select a course to view available slots.,Veuillez sélectionner une formation pour voir les créneaux disponibles.
+Please select a quiz,Veuillez sélectionner un quiz
+Please select a slot for your evaluation.,Veuillez sélectionner un créneau pour votre évaluation.
 Please select a student to enroll.,Veuillez sélectionner un apprenant à inscrire.
+Please select an option,Veuillez sélectionner une option
 Please upload a SCORM package,Veuillez importer un package SCORM
 "Please upload an MP4, WebM, or OGG video — formats like .MOV can't be played in the browser.","Veuillez envoyer une vidéo MP4, WebM ou OGG : les formats comme .MOV ne peuvent pas être lus dans le navigateur."
 "Please upload an MP4, WebM, or OGG video. Formats like .MOV can't be played in the browser.","Veuillez envoyer une vidéo MP4, WebM ou OGG. Les formats comme .MOV ne peuvent pas être lus dans le navigateur."
@@ -202,6 +294,12 @@ Prevent Skipping Videos,Empêcher de sauter les vidéos
 Preview Video,Aperçu de la vidéo
 Preview video,Aperçu de la vidéo
 Programming Exercise,Exercice de code
+Programming Exercise Progress,Progression des exercices de code
+Programming Exercise Submission,Rendu d'exercice de code
+Programming Exercise Submissions,Rendus d'exercices de code
+Programming Exercise created successfully,Exercice de code créé avec succès
+Programming Exercise deleted successfully,Exercice de code supprimé avec succès
+Programming Exercise updated successfully,Exercice de code mis à jour avec succès
 Programming Exercises,Exercices de code
 Programs,Parcours
 Progress (%),Progression (%)
@@ -211,9 +309,20 @@ Progress Summary for {0},Résumé de la progression de {0}
 Progress of students in courses and assessments,Progression des apprenants dans les formations et les évaluations
 Publish my first course,Publier ma première formation
 Published Courses,Formations publiées
+Question updated successfully,Question mise à jour avec succès
 Questions marked for review,Questions marquées pour révision
 Quiz,Quiz
+Quiz Progress,Progression des quiz
+Quiz Submission,Rendu de quiz
+Quiz Submissions,Rendus de quiz
+Quiz Summary,Résumé du quiz
+Quiz deleted successfully,Quiz supprimé avec succès
+Quiz topic,Thème du quiz
+Quiz topics,Thèmes du quiz
+Quiz updated successfully,Quiz mis à jour avec succès
 Quizzes,Quiz
+Quizzes in this video,Quiz dans cette vidéo
+Randomize the order of questions for each attempt.,Mélanger l'ordre des questions à chaque tentative.
 Related Courses,Formations associées
 Resume Video,Reprendre la vidéo
 Resume where you left off,Reprenez où vous en étiez
@@ -222,18 +331,47 @@ SCORM Package,Package SCORM
 SVG contains potentially unsafe content.,Le fichier SVG contient un contenu potentiellement dangereux.
 Saved — this format can't be previewed here.,Enregistré : ce format ne peut pas être prévisualisé ici.
 Saved. This format can't be previewed here.,Enregistré. Ce format ne peut pas être prévisualisé ici.
+Schedule an evaluation to get certified.,Planifiez une évaluation pour obtenir votre certification.
+Schedule your evaluation,Planifiez votre évaluation
 Search for an icon,Rechercher une icône
 See all,Voir tout
+Select a Programming Exercise,Sélectionnez un exercice de code
 Select a lesson on the right to start editing.,Sélectionnez une leçon à droite pour commencer à modifier.
+Select a question,Sélectionnez une question
+Select a question to view the thread,Sélectionnez une question pour voir la discussion
+Select a quiz,Sélectionnez un quiz
+Select an Assignment,Sélectionnez un devoir
+Select evaluator,Sélectionnez l'évaluateur
 Select related courses,Sélectionnez les formations associées
 Self enrollment,Inscription libre
+Sell an evaluator-graded certificate alongside this free course.,Vendez un certificat noté par un évaluateur avec cette formation gratuite.
+"Selling a paid course or certificate needs the Payments app. Install it from the Frappe Marketplace, then turn on pricing here.","Vendre une formation payante ou un certificat nécessite l'application Payments. Installez-la depuis la Frappe Marketplace, puis activez la tarification ici."
+Send calendar invite for evaluations,Envoyer une invitation de calendrier pour les évaluations
 Set Color,Définir la couleur
 Setting up,Mise en route
 Setting up payment gateway,Configuration de la passerelle de paiement
+Show Answer,Afficher la réponse
+Show Answers,Afficher les réponses
+Show Submission History,Afficher l'historique des rendus
+Shuffle Questions,Mélanger les questions
 Start Learning,Commencer l'apprentissage
+Status/Percentage,Statut / pourcentage
 Student enrolled successfully,Apprenant inscrit avec succès
 Students,Apprenants
+Submission,Rendu
+Submission Type,Type de rendu
+Submission by,Rendu de
+Submission saved!,Rendu enregistré !
+Submissions,Rendus
+Submissions deleted successfully,Rendus supprimés avec succès
+"Submit your resume to proceed with your application for this position. Upon submission, it will be shared with the job poster.","Envoyez votre CV pour poursuivre votre candidature à ce poste. Après envoi, il sera communiqué à l'auteur de l'offre."
 Swatches,Nuancier
+Test Cases,Cas de test
+Test Quiz,Tester le quiz
+Test this Exercise,Tester cet exercice
+Thank you for providing your feedback.,Merci pour votre avis.
+The deadline to schedule evaluations has passed. Please contact the Instructor for assistance.,La date limite pour planifier les évaluations est dépassée. Veuillez contacter le formateur pour obtenir de l'aide.
+The last day to schedule your evaluations is,La date limite pour planifier vos évaluations est le
 There are no courses currently. Create your first course to get started!,Il n'y a aucune formation pour le moment. Créez votre première formation pour commencer !
 "There are no {0} currently. Keep an eye out, fresh learning experiences are on the way!",Aucun élément à afficher dans « {0} » pour le moment. Revenez bientôt : de nouvelles expériences d'apprentissage arrivent !
 These tags help search engines describe and rank your course in results.,Ces balises aident les moteurs de recherche à décrire et à classer votre formation dans les résultats.
@@ -242,31 +380,41 @@ This course includes:,Cette formation comprend :
 This lesson is locked,Cette leçon est verrouillée
 This lesson is not available for preview. Please enroll in the course to access it.,Cette leçon n'est pas disponible en aperçu. Veuillez vous inscrire à la formation pour y accéder.
 This lesson is not available for preview. Please join the course to access it.,Cette leçon n'est pas disponible en aperçu. Veuillez rejoindre la formation pour y accéder.
+This quiz has no questions available yet.,Ce quiz ne contient encore aucune question.
 This site is being updated. You will not be able to make any changes. Full access will be restored shortly.,Ce site est en cours de mise à jour. Vous ne pourrez effectuer aucune modification. L'accès complet sera rétabli sous peu.
 This video contains {0} {1}:,Cette vidéo contient {0} {1} :
 This video's codec can't be played in browsers (e.g. HEVC/H.265). Please upload an H.264 MP4 or a WebM.,Le codec de cette vidéo ne peut pas être lu par les navigateurs (ex. HEVC/H.265). Veuillez envoyer un fichier MP4 H.264 ou WebM.
+This will permanently delete the coupon and the code will no longer be valid.,"Cela supprimera définitivement le coupon, et le code ne sera plus valide."
+Time for a Quiz,C'est l'heure du quiz
 Time in Video,Moment dans la vidéo
 Time in Video (minutes),Moment dans la vidéo (minutes)
 Time in video exceeds the total duration of the video.,Le moment indiqué dépasse la durée totale de la vidéo.
+Total Marks,Total des points
+Total Questions,Nombre total de questions
 Type '/' for commands or select text to format,Saisissez « / » pour afficher les commandes ou sélectionnez du texte pour le mettre en forme
+Type your answer,Saisissez votre réponse
 Unable to create category,Impossible de créer la catégorie
 Unpublished,Non publié
 Upcoming,À venir
 Upcoming Batches,Promotions à venir
 Upcoming Evaluations,Évaluations à venir
 Upcoming Live Classes,Séances en direct à venir
+Upload Assignment,Envoyer le devoir
 Upload failed,Échec de l'envoi
 Upload video,Envoyer une vidéo
 Uploaded video — students see it on the course page. Remove it to use a YouTube link instead.,Vidéo envoyée : les apprenants la voient sur la page de la formation. Supprimez-la pour utiliser un lien YouTube à la place.
 Uploaded video. Students see it on the course page. Remove it to use a YouTube link instead.,Vidéo envoyée. Les apprenants la voient sur la page de la formation. Supprimez-la pour utiliser un lien YouTube à la place.
+View all feedback,Voir tous les avis
 View all reviews,Voir tous les avis
 What are you using today to manage learning?,Qu'utilisez-vous aujourd'hui pour gérer l'apprentissage ?
 "When on, anyone can preview this lesson without enrolling. Otherwise it is visible only to enrolled students.","Lorsque cette option est activée, tout le monde peut voir un aperçu de cette leçon sans s'inscrire. Sinon, elle n'est visible que par les apprenants inscrits."
 Where will you be using Frappe Learning?,Où utiliserez-vous Frappe Learning ?
 Write a Review,Rédiger un avis
+Write your answer here,Écrivez votre réponse ici
 You are not enrolled in this course.,Inscription requise pour accéder à cette formation.
 You are not enrolled in this course. Please enroll to access this lesson.,Inscrivez-vous à cette formation pour accéder à cette leçon.
 "You can do better,","Vous pouvez faire mieux,"
+You got {0}% correct answers with a score of {1} out of {2},"Vous avez obtenu {0} % de bonnes réponses, avec un score de {1} sur {2}"
 You have been enrolled in this course,Votre inscription à cette formation est confirmée.
 You have opted to be notified for this course. You will receive an email when the course becomes available.,Vous avez demandé une alerte pour cette formation. Vous recevrez un courriel dès qu'elle sera disponible.
 You have {0} upcoming {1} and {2} {3} scheduled.,Vous avez {0} {1} à venir et {2} {3} au programme.
@@ -274,6 +422,7 @@ You have {0} upcoming {1}.,Vous avez {0} {1} à venir.
 You have {0} {1} scheduled.,Vous avez {0} {1} au programme.
 You need to login first to enroll for this course,Vous devez d'abord vous connecter pour vous inscrire à cette formation
 "You rock,","Bravo,"
+You've successfully submitted the assignment.,Votre devoir a bien été rendu.
 YouTube link added — students see it embedded on the course page. Clear the field to upload a file instead.,Lien YouTube ajouté : les apprenants le voient intégré à la page de la formation. Videz le champ pour envoyer un fichier à la place.
 YouTube link added. Students see it embedded on the course page. Clear the field to upload a file instead.,Lien YouTube ajouté. Les apprenants le voient intégré à la page de la formation. Videz le champ pour envoyer un fichier à la place.
 Your browser does not support the video tag.,Votre navigateur ne prend pas en charge la balise vidéo.
@@ -290,5 +439,8 @@ lessons,leçons
 live class,séance en direct
 live classes,séances en direct
 sections,sections
+to view your feedback.,pour consulter votre avis.
 user rating,note de l'utilisateur
 user ratings,notes des utilisateurs
+{0} Exercises,{0} exercices
+{0} Quizzes,{0} quiz
