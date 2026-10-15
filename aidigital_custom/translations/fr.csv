@@ -685,3 +685,233 @@ Logo,Logo
 Medium:,Modalité :
 "Dear ","Bonjour "
 Check Discussion,Voir la discussion
+Active Members,Membres actifs
+Add a course to the batch,Ajouter une formation à la promotion
+Add an assessment,Ajouter une évaluation
+Add Course to Program,Ajouter une formation au parcours
+Add New Member,Ajouter un nouveau membre
+Allow Guest Access,Autoriser l'accès invité
+Allow Job Posting,Autoriser la publication d'offres d'emploi
+Allow users to enroll in this batch on their own.,Autoriser les utilisateurs à s'inscrire eux-mêmes à cette promotion.
+Amber,Ambre
+Announcement has been sent successfully,L'annonce a été envoyée avec succès
+Announcement is required,L'annonce est obligatoire
+Are you sure you want to delete this program? This action cannot be undone.,Voulez-vous vraiment supprimer ce parcours ? Cette action est irréversible.
+Assessment added successfully,Évaluation ajoutée avec succès
+Availability updated successfully,Disponibilité mise à jour avec succès
+Average Watch Time (mins),Temps de visionnage moyen (min)
+Award my first certificate,Délivrer mon premier certificat
+Badge created successfully,Badge créé avec succès
+Badge deleted successfully,Badge supprimé avec succès
+Badge updated successfully,Badge mis à jour avec succès
+Batch created successfully,Promotion créée avec succès
+Batch deleted successfully,Promotion supprimée avec succès
+Batch End Date,Date de fin de la promotion
+Batch Enrollment,Inscription à la promotion
+Batch Enrollment Confirmation,Confirmation d'inscription à la promotion
+Batch overview,Aperçu de la promotion
+Batch Summary,Résumé de la promotion
+Batch updated successfully,Promotion mise à jour avec succès
+Category added successfully,Catégorie ajoutée avec succès
+Category deleted successfully,Catégorie supprimée avec succès
+Category updated successfully,Catégorie mise à jour avec succès
+Certificate price,Prix du certificat
+Certificates generated successfully,Certificats générés avec succès
+Certificates render from a Print Format. Build or customize templates from the desk.,Les certificats sont générés à partir d'un format d'impression. Créez ou personnalisez les modèles depuis le bureau.
+Charge a fee for batch enrollment.,Facturer des frais pour l'inscription à la promotion.
+Choose a payment provider to configure its credentials.,Choisissez un prestataire de paiement pour configurer ses identifiants.
+Coaching or Training Institute,Centre de coaching ou de formation
+College or University,Collège ou université
+Comma separated keywords,Mots-clés séparés par des virgules
+Comma separated keywords for SEO,Mots-clés séparés par des virgules pour le référencement (SEO)
+Company or Workplace,Entreprise ou lieu de travail
+Completion certificate,Certificat de réussite
+Conferencing,Visioconférence
+Conferencing Provider,Fournisseur de visioconférence
+Confirm your action to delete,Confirmez votre action de suppression
+Coupon created successfully,Coupon créé avec succès
+Coupon deleted successfully,Coupon supprimé avec succès
+Coupon Details,Détails du coupon
+Coupon updated successfully,Coupon mis à jour avec succès
+Course added to batch successfully,Formation ajoutée à la promotion avec succès
+Course added to program successfully,Formation ajoutée au parcours avec succès
+Course already added to program,Formation déjà ajoutée au parcours
+Create and manage reusable email templates for your notifications.,Créez et gérez des modèles de courriel réutilisables pour vos notifications.
+Create Program,Créer un parcours
+Customer Academy,Académie clients
+Delete Program,Supprimer le parcours
+Delete this coupon?,Supprimer ce coupon ?
+Delete user,Supprimer l'utilisateur
+"Deleting this batch will also delete all its data including enrolled students, linked courses, assessments, feedback and discussions. Are you sure you want to continue?","La suppression de cette promotion supprimera aussi toutes ses données, y compris les apprenants inscrits, les formations liées, les évaluations, les retours et les discussions. Voulez-vous vraiment continuer ?"
+Disable PWA,Désactiver la PWA
+"Drag and drop a ZIP file, or upload from your","Glissez-déposez un fichier ZIP, ou importez depuis votre"
+e.g. WELCOME10,p. ex. BIENVENUE10
+Each user can only receive this badge one time.,Chaque utilisateur ne peut recevoir ce badge qu'une seule fois.
+Edit Badge,Modifier le badge
+Edit Email Template,Modifier le modèle de courriel
+Edit Member,Modifier le membre
+Edit member,Modifier le membre
+Edit Program,Modifier le parcours
+Email account created,Compte de courriel créé
+Email Account deleted successfully,Compte de courriel supprimé avec succès
+Email account updated successfully,Compte de courriel mis à jour avec succès
+Email Template created successfully,Modèle de courriel créé avec succès
+Email Template deleted successfully,Modèle de courriel supprimé avec succès
+Email Template updated successfully,Modèle de courriel mis à jour avec succès
+Enabling this will publish the certificate on the certified participants page.,L'activation de cette option publiera le certificat sur la page des participants certifiés.
+Enroll Member to Program,Inscrire un membre au parcours
+Enrollment & Certification,Inscription et certification
+Enrollment Confirmation Email Template,Modèle de courriel de confirmation d'inscription
+Error creating badge,Erreur lors de la création du badge
+Error creating batch,Erreur lors de la création de la promotion
+Error creating email template,Erreur lors de la création du modèle de courriel
+Error creating Google Meet Account,Erreur lors de la création du compte Google Meet
+Error creating Zoom Account,Erreur lors de la création du compte Zoom
+Error deleting badge,Erreur lors de la suppression du badge
+Error deleting email account,Erreur lors de la suppression du compte de courriel
+Error deleting email template,Erreur lors de la suppression du modèle de courriel
+Error updating email template,Erreur lors de la mise à jour du modèle de courriel
+Error updating Google Meet Account,Erreur lors de la mise à jour du compte Google Meet
+Error updating Zoom Account,Erreur lors de la mise à jour du compte Zoom
+"Failed to create email account, Invalid credentials",Échec de la création du compte de courriel : identifiants invalides
+"Failed to update email account, Invalid credentials",Échec de la mise à jour du compte de courriel : identifiants invalides
+File upload failed. Please try again.,Échec de l'envoi du fichier. Veuillez réessayer.
+Fixed Amount,Montant fixe
+Get the Payments app,Installer l'application Payments
+GitHub ID,Identifiant GitHub
+Google Meet Account created successfully,Compte Google Meet créé avec succès
+Google Meet Account updated successfully,Compte Google Meet mis à jour avec succès
+Grant Only Once,Accorder une seule fois
+GST Amount,Montant de la GST
+GST Number,Numéro de GST
+Highlight on the homepage.,Mettre en avant sur la page d'accueil.
+I am unavailable,Je suis indisponible
+Identify User Category,Identifier la catégorie d'utilisateur
+In-app,Dans l'application
+Instructor notes,Notes du formateur
+Issue a free certificate when learners complete the course.,Délivrer un certificat gratuit lorsque les apprenants terminent la formation.
+Issue certificates to batch participants.,Délivrer des certificats aux participants de la promotion.
+Job Details,Détails de l'offre d'emploi
+LinkedIn ID,Identifiant LinkedIn
+LMS Assessment,Évaluation LMS
+LMS Badge,Badge LMS
+LMS Batch,Promotion LMS
+LMS Batch Enrollment,Inscription à une promotion LMS
+LMS Category,Catégorie LMS
+LMS Certificate,Certificat LMS
+LMS Certificate Request,Demande de certificat LMS
+LMS Coupon,Coupon LMS
+LMS Google Meet Settings,Paramètres Google Meet LMS
+LMS Job Application,Candidature LMS
+LMS Live Class,Séance en direct LMS
+LMS Live Class Participant,Participant à une séance en direct LMS
+LMS Payment,Paiement LMS
+LMS Program,Parcours LMS
+LMS Program Course,Formation du parcours LMS
+LMS Program Member,Membre du parcours LMS
+LMS Settings,Paramètres LMS
+LMS Sidebar Item,Élément de barre latérale LMS
+LMS Source,Source LMS
+LMS Student,Apprenant LMS
+LMS Zoom Settings,Paramètres Zoom LMS
+Looking for new work or hiring talent?,À la recherche d'un nouvel emploi ou de talents à recruter ?
+Manage templates,Gérer les modèles
+Manage your email accounts and configure incoming and outgoing settings.,Gérez vos comptes de courriel et configurez les paramètres de réception et d'envoi.
+Member added successfully,Membre ajouté avec succès
+Member added to program successfully,Membre ajouté au parcours avec succès
+Member already added to program,Membre déjà ajouté au parcours
+Member updated successfully,Membre mis à jour avec succès
+Meta Keywords,Mots-clés méta
+Meta keywords,Mots-clés méta
+My availability,Ma disponibilité
+My calendar,Mon calendrier
+New Coupon,Nouveau coupon
+New Email Template,Nouveau modèle de courriel
+New Google Meet Account,Nouveau compte Google Meet
+New Job,Nouvelle offre d'emploi
+New Payment Gateway,Nouvelle passerelle de paiement
+New Zoom Account,Nouveau compte Zoom
+No LMS yet,Pas encore de LMS
+No members added yet.,Aucun membre ajouté pour le moment.
+No statistics available for this video.,Aucune statistique disponible pour cette vidéo.
+No students in this batch,Aucun apprenant dans cette promotion
+Non-profit or Government,Association ou administration publique
+Number of seats available,Nombre de places disponibles
+Number of Students,Nombre d'apprenants
+On site,Sur site
+Only zip files are allowed,Seuls les fichiers ZIP sont autorisés
+"Oversee all users, content, and system settings","Supervisez tous les utilisateurs, les contenus et les paramètres du système"
+Paid certificate,Certificat payant
+Payment Details,Détails du paiement
+Payment For Certificate,Paiement du certificat
+Payment For Document,Paiement du document
+Payment For Document Type,Paiement du type de document
+Payments app required,Application Payments requise
+Personal Business,Activité personnelle
+Please enter a title.,Veuillez saisir un titre.
+Please enter a valid time in the format HH:mm.,Veuillez saisir une heure valide au format HH:mm.
+Please fill the mandatory fields: {0},Veuillez renseigner les champs obligatoires : {0}
+Please select a duration.,Veuillez sélectionner une durée.
+Please select a future date and time.,Veuillez sélectionner une date et une heure à venir.
+Please select a member,Veuillez sélectionner un membre
+Please select a payment for the purchased certificate.,Veuillez sélectionner un paiement pour le certificat acheté.
+Please select a time.,Veuillez sélectionner une heure.
+Please select a timezone.,Veuillez sélectionner un fuseau horaire.
+Pricing and certification,Tarification et certification
+Profile Image,Image de profil
+Program created successfully,Parcours créé avec succès
+Program deleted successfully,Parcours supprimé avec succès
+Program updated successfully,Parcours mis à jour avec succès
+question_detail,Détail de la question
+Redemptions Count,Nombre d'utilisations
+Remove row,Supprimer la ligne
+Reply To is required,Le champ « Répondre à » est obligatoire
+Role updated successfully,Rôle mis à jour avec succès
+Select currency,Sélectionnez la devise
+Select Date,Sélectionnez la date
+Select instructors,Sélectionnez les formateurs
+Select Payment Gateway,Sélectionnez la passerelle de paiement
+Select timezone,Sélectionnez le fuseau horaire
+Send Notification for Published Batches,Envoyer une notification pour les promotions publiées
+Send Notification for Published Courses,Envoyer une notification pour les formations publiées
+Session End Time,Heure de fin de la séance
+Session Start Time,Heure de début de la séance
+Short Description,Description courte
+Short description of the batch,Description courte de la promotion
+Short introduction,Introduction courte
+Signups,Créations de compte
+Skip for now,Passer pour le moment
+Slot added successfully,Créneau ajouté avec succès
+Slot deleted successfully,Créneau supprimé avec succès
+Spreadsheets,Tableurs
+Teal,Sarcelle
+This permanently deletes the email account and cannot be undone.,Cette action supprime définitivement le compte de courriel et est irréversible.
+This permanently deletes the email template and cannot be undone.,Cette action supprime définitivement le modèle de courriel et est irréversible.
+This permanently deletes the user account and cannot be undone.,Cette action supprime définitivement le compte utilisateur et est irréversible.
+Time must be in 24 hour format (HH:mm). Example 11:30 or 22:00,L'heure doit être au format 24 h (HH:mm). Exemple : 11:30 ou 22:00
+Transaction created successfully,Transaction créée avec succès
+Transaction updated successfully,Transaction mise à jour avec succès
+Twitter ID,Identifiant Twitter
+Unable to add member,Impossible d'ajouter le membre
+Unable to update member,Impossible de mettre à jour le membre
+Unavailability,Indisponibilité
+Unavailability updated successfully,Indisponibilité mise à jour avec succès
+Unsplash Access Key,Clé d'accès Unsplash
+Update Template,Mettre à jour le modèle
+Usage Limit,Limite d'utilisation
+Use HTML content for the email response,Utiliser du contenu HTML pour la réponse par courriel
+User Category,Catégorie d'utilisateur
+User deleted,Utilisateur supprimé
+Watch Time,Temps de visionnage
+Watch Time (mins),Temps de visionnage (min)
+weeks,semaines
+What is this badge awarded for?,Pour quelle raison ce badge est-il décerné ?
+You cannot change the availability when the site is being updated.,Vous ne pouvez pas modifier la disponibilité pendant la mise à jour du site.
+You cannot change the roles in read-only mode.,Vous ne pouvez pas modifier les rôles en mode lecture seule.
+Your calendar is set.,Votre calendrier est configuré.
+Your enrollment in {{ batch_name }} is confirmed,Votre inscription à {{ batch_name }} est confirmée
+Zoom Account,Compte Zoom
+Zoom Account created successfully,Compte Zoom créé avec succès
+Zoom account deleted successfully,Compte Zoom supprimé avec succès
+Zoom Account updated successfully,Compte Zoom mis à jour avec succès
+Zoom Settings,Paramètres Zoom
