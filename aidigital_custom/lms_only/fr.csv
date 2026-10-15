@@ -6,3 +6,11 @@ you are on a,votre série actuelle est de
 {0} Assignments,{0} devoirs
 No {0} Found,Aucun résultat
 "There are no {0} currently. Keep an eye out, fresh learning experiences are on the way!","Aucun élément à afficher pour le moment. Revenez bientôt : de nouvelles expériences d'apprentissage arrivent !"
+Passing score,Note de passage
+Passing score: {0}%,Note de passage : {0} %
+"Use ""Mark for Review"" to flag questions you want to revisit before submitting.",Utilisez « Marquer pour révision » pour repérer les questions que vous voulez revoir avant de valider.
+Answer all questions before you submit. You can navigate freely between them.,Répondez à toutes les questions avant de valider. Vous pouvez passer librement de l'une à l'autre.
+Closing or refreshing the page will submit your quiz automatically.,Fermer ou actualiser la page validera automatiquement votre quiz.
+Start Quiz,Commencer le quiz
+Previous,Précédent
+Previous:Go to previous slide,Précédent
